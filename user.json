@@ -1,0 +1,20 @@
+[{
+	"name":"Nayan",
+	"city":"Rajkot",
+	"isDeveloper":true
+},
+{
+	"name":"Ravi",
+	"city":"Jasdan",
+	"isDeveloper":false
+},
+{
+	"name":"Ankur",
+	"city":"Gondal",
+	"isDeveloper":false
+},
+{
+	"name":"Dwip",
+	"city":"Baroda",
+	"isDeveloper":true
+}]
